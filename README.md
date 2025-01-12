@@ -6,22 +6,8 @@ Browser External Memory Card
        {
        output: #BtnCmd: #WoL_packet 
     }]),
-### title: "gitQuantum --BIG DATA BLUETOOTH AVATAR--" ##
-## </.@.// /*Multi-line commit mention;*/
-/*
-{{ #Task: #Variable }} 
-{
-{{ #Device-State: #Parent_URI }}
-*//*
-{{ #mode: #variable }}
-{
-{{ #file-state: #child_URI }}
-*//*
-{{ #Device-State: #file-state }}
-{
-{{ #transcript: #Data_URI }}
-*/
-/.}}.>
+### title: "gitQuantum --BIG DATA BLUETOOTH AVATAR--" ##               
+###                             name: "(Atomic) Probability Cloud"                                         # - </.@.// /*Multi-line commit mention;*/                                                                       ## /*echo|:-{{ #Task: #Variable }}|:-{{ #Device-State: #Parent_URI }}*/                                                              ## /*echo|:-{{ #mode: #variable }}|:-{{ #file-state: #child_URI }}*/                                                            ## /*echo|:-{{ #Device-State: #file-state }}|:-{{ #transcript: #Data_URI }}*//.}}.>                                                   ##
 
 AMD maintain continuity aboard Core Memory To maintain an, "External Browser Memory Card"
 
