@@ -6,8 +6,8 @@ Browser External Memory Card
        {
        output: #BtnCmd: #WoL_packet 
     }]),
-
-</.@.// /*Multi-line commit mention;*/
+### title: "gitQuantum --BIG DATA BLUETOOTH AVATAR--" ##
+## </.@.// /*Multi-line commit mention;*/
 /*
 {{ #Task: #Variable }} 
 {
