@@ -1,6 +1,12 @@
 `sd.mmsc`
 Browser External Memory Card
-</.@.*//*[document.createElement ({, .//+Assert.input: {{ #ntnt: #nt_model }}{{output: #BtnCmd: #WoL_packet }}*/ /.}}.>
+
+    [document.createElement ({
+       input: #ntnt: #nt_model
+       {
+       output: #BtnCmd: #WoL_packet 
+    }]),
+    
 ### title: "gitQuantum --BIG DATA BLUETOOTH AVATAR--" ##               
 ###                             name: "(Atomic) Probability Cloud"                                         # - </.@.// /*Multi-line commit mention;*/                                                                       ## /*echo|:-{{ #Task: #Variable }}|:-{{ #Device-State: #Parent_URI }}*/                                                              ## /*echo|:-{{ #mode: #variable }}|:-{{ #file-state: #child_URI }}*/                                                            ## /*echo|:-{{ #Device-State: #file-state }}|:-{{ #transcript: #Data_URI }}*//.}}.>                                                   ##
 
