@@ -7,16 +7,16 @@ Browser External Memory Card
        output: #BtnCmd: #WoL_packet 
     }]),
 
-</.@.*//*
+</.@.// /*Multi-line commit mention;*/
 /*
 {{ #Task: #Variable }} 
 {
 {{ #Device-State: #Parent_URI }}
-
+*//*
 {{ #mode: #variable }}
 {
 {{ #file-state: #child_URI }}
-
+*//*
 {{ #Device-State: #file-state }}
 {
 {{ #transcript: #Data_URI }}
