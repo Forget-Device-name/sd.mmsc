@@ -1,7 +1,21 @@
 `sd.mmsc`
 Browser External Memory Card
+```{
+  ?[
+      unlimit_adverts
+      unlimit_issues
+      Device_connect_count=[]
+      Device_link_count=[]
+  ],
+✓[
+      importRules
+      importScripts
+      barExtensions
+      barPlugins
+  ]
+}```
 
-    [document.createElement ({
+```[document.createElement ({
        input: #ntnt: #nt_model
        {
        output: #BtnCmd: #WoL_packet 
