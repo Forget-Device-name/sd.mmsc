@@ -1,5 +1,9 @@
 <script>
-  object().addEventListener(DragEvent, *myScript)
-[]
-;}elsewise::*createElement(+insertTofile//@ismylocalip, ./ username add && shortcut.
-                           </script>
+[{
+  "```${
+    object().addEventListener(DragEvent, *myScript)
+      []
+        }```" *=" """_*add_```${echo|:-"Use"|:-"$strval==*[$string] [_--_]}"
+    }```"
+}] // gitQuantum
+</script>
